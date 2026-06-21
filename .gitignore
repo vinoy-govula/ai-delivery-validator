@@ -9,3 +9,4 @@ venv/
 dist/
 build/
 golden-path-output/
+.lead-id
